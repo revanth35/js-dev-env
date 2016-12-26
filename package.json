@@ -25,6 +25,7 @@
   "author": "Revanth Varma Datla",
   "license": "Revanth",
   "dependencies": {
+    "surge": "^0.18.0",
     "whatwg-fetch": "^2.0.1"
   },
   "devDependencies": {
